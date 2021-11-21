@@ -14,5 +14,5 @@ twitter = Twython(
 )
 
 message = input("Please input your message: ")
-# twitter.update_status(status=message)
+twitter.update_status(status=message)
 print("Tweeted: %s" % message)
