@@ -8,7 +8,7 @@ Then go to the [twitter developer website](https://developer.twitter.com/). Appl
 
 <img src="assets/images/step1.png" width=40%>
 
-Name you app.
+Name your app.
 
 <img src="assets/images/step2.png" width=25%>
 
