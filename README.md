@@ -30,6 +30,7 @@ Copy your Access Token and Access Toke Secret to auth.py
 
 ## Usage
 
-Run twitter.py ```python twitter.py``` or in vs code hit F5 (with the python extention installed). If it doesn't run make sure python is installed.
+Run twitter.py ```python twitter.py``` or in vs code hit F5 (with the python extention installed). If it doesn't run make sure python and twython are installed.
+> The command to install twython is ```pip install twython```
 
 >Note: this is my first time writing a doc, sorry if it's bad
